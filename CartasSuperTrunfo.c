@@ -9,6 +9,8 @@ int main() {
     int populacao, pontosturisticos;
     float area,pib;
     
+    printf("Novo commit\n");
+
     // Cadastro Carta 01
     // Estado: Uma letra de 'A' a 'H' (representando um dos oito estados)
     printf("Digite o Estado:\n");
